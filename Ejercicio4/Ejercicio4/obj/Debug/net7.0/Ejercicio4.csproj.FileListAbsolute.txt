@@ -1,0 +1,15 @@
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/LinQ/Ejercicio4/Ejercicio4/obj/Debug/net7.0/Ejercicio4.csproj.AssemblyReference.cache
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/LinQ/Ejercicio4/Ejercicio4/obj/Debug/net7.0/Ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/LinQ/Ejercicio4/Ejercicio4/obj/Debug/net7.0/Ejercicio4.AssemblyInfoInputs.cache
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/LinQ/Ejercicio4/Ejercicio4/obj/Debug/net7.0/Ejercicio4.AssemblyInfo.cs
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/LinQ/Ejercicio4/Ejercicio4/obj/Debug/net7.0/Ejercicio4.csproj.CoreCompileInputs.cache
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/LinQ/Ejercicio4/Ejercicio4/bin/Debug/net7.0/Ejercicio4
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/LinQ/Ejercicio4/Ejercicio4/bin/Debug/net7.0/Ejercicio4.deps.json
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/LinQ/Ejercicio4/Ejercicio4/bin/Debug/net7.0/Ejercicio4.runtimeconfig.json
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/LinQ/Ejercicio4/Ejercicio4/bin/Debug/net7.0/Ejercicio4.dll
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/LinQ/Ejercicio4/Ejercicio4/bin/Debug/net7.0/Ejercicio4.pdb
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/LinQ/Ejercicio4/Ejercicio4/obj/Debug/net7.0/Ejercicio4.dll
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/LinQ/Ejercicio4/Ejercicio4/obj/Debug/net7.0/refint/Ejercicio4.dll
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/LinQ/Ejercicio4/Ejercicio4/obj/Debug/net7.0/Ejercicio4.pdb
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/LinQ/Ejercicio4/Ejercicio4/obj/Debug/net7.0/Ejercicio4.genruntimeconfig.cache
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/LinQ/Ejercicio4/Ejercicio4/obj/Debug/net7.0/ref/Ejercicio4.dll

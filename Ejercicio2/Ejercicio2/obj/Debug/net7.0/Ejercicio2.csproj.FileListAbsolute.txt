@@ -1,0 +1,15 @@
+/Users/sebastianpuppo/Projects/Ejercicio2/Ejercicio2/bin/Debug/net7.0/Ejercicio2
+/Users/sebastianpuppo/Projects/Ejercicio2/Ejercicio2/bin/Debug/net7.0/Ejercicio2.deps.json
+/Users/sebastianpuppo/Projects/Ejercicio2/Ejercicio2/bin/Debug/net7.0/Ejercicio2.runtimeconfig.json
+/Users/sebastianpuppo/Projects/Ejercicio2/Ejercicio2/bin/Debug/net7.0/Ejercicio2.dll
+/Users/sebastianpuppo/Projects/Ejercicio2/Ejercicio2/bin/Debug/net7.0/Ejercicio2.pdb
+/Users/sebastianpuppo/Projects/Ejercicio2/Ejercicio2/obj/Debug/net7.0/Ejercicio2.csproj.AssemblyReference.cache
+/Users/sebastianpuppo/Projects/Ejercicio2/Ejercicio2/obj/Debug/net7.0/Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebastianpuppo/Projects/Ejercicio2/Ejercicio2/obj/Debug/net7.0/Ejercicio2.AssemblyInfoInputs.cache
+/Users/sebastianpuppo/Projects/Ejercicio2/Ejercicio2/obj/Debug/net7.0/Ejercicio2.AssemblyInfo.cs
+/Users/sebastianpuppo/Projects/Ejercicio2/Ejercicio2/obj/Debug/net7.0/Ejercicio2.csproj.CoreCompileInputs.cache
+/Users/sebastianpuppo/Projects/Ejercicio2/Ejercicio2/obj/Debug/net7.0/Ejercicio2.dll
+/Users/sebastianpuppo/Projects/Ejercicio2/Ejercicio2/obj/Debug/net7.0/refint/Ejercicio2.dll
+/Users/sebastianpuppo/Projects/Ejercicio2/Ejercicio2/obj/Debug/net7.0/Ejercicio2.pdb
+/Users/sebastianpuppo/Projects/Ejercicio2/Ejercicio2/obj/Debug/net7.0/Ejercicio2.genruntimeconfig.cache
+/Users/sebastianpuppo/Projects/Ejercicio2/Ejercicio2/obj/Debug/net7.0/ref/Ejercicio2.dll

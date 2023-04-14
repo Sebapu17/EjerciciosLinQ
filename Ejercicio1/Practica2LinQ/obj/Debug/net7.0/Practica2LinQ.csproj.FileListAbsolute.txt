@@ -1,0 +1,15 @@
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2LinQ/Practica2LinQ/bin/Debug/net7.0/Practica2LinQ
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2LinQ/Practica2LinQ/bin/Debug/net7.0/Practica2LinQ.deps.json
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2LinQ/Practica2LinQ/bin/Debug/net7.0/Practica2LinQ.runtimeconfig.json
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2LinQ/Practica2LinQ/bin/Debug/net7.0/Practica2LinQ.dll
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2LinQ/Practica2LinQ/bin/Debug/net7.0/Practica2LinQ.pdb
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2LinQ/Practica2LinQ/obj/Debug/net7.0/Practica2LinQ.csproj.AssemblyReference.cache
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2LinQ/Practica2LinQ/obj/Debug/net7.0/Practica2LinQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2LinQ/Practica2LinQ/obj/Debug/net7.0/Practica2LinQ.AssemblyInfoInputs.cache
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2LinQ/Practica2LinQ/obj/Debug/net7.0/Practica2LinQ.AssemblyInfo.cs
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2LinQ/Practica2LinQ/obj/Debug/net7.0/Practica2LinQ.csproj.CoreCompileInputs.cache
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2LinQ/Practica2LinQ/obj/Debug/net7.0/Practica2LinQ.dll
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2LinQ/Practica2LinQ/obj/Debug/net7.0/refint/Practica2LinQ.dll
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2LinQ/Practica2LinQ/obj/Debug/net7.0/Practica2LinQ.pdb
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2LinQ/Practica2LinQ/obj/Debug/net7.0/Practica2LinQ.genruntimeconfig.cache
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2LinQ/Practica2LinQ/obj/Debug/net7.0/ref/Practica2LinQ.dll

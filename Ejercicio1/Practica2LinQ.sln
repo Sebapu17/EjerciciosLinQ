@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica2LinQ", "Practica2LinQ\Practica2LinQ.csproj", "{38B497E2-513E-4442-94CB-9F879EF86547}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38B497E2-513E-4442-94CB-9F879EF86547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38B497E2-513E-4442-94CB-9F879EF86547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38B497E2-513E-4442-94CB-9F879EF86547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38B497E2-513E-4442-94CB-9F879EF86547}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AA7BF21-AF81-47DB-AF89-F92526650C0D}
+	EndGlobalSection
+EndGlobal

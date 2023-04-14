@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{38B497E2-513E-4442-94CB-9F879EF86547}|Default">
+  <MonoDevelop.Ide.ItemProperties.Practica2LinQ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Practica2LinQ/Program.cs">
+    <Files>
+      <File FileName="Practica2LinQ/Program.cs" Line="30" Column="29" />
+      <File FileName="Practica2LinQ/Persona.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Practica2LinQ" expanded="True">
+            <Node name="Practica2LinQ" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

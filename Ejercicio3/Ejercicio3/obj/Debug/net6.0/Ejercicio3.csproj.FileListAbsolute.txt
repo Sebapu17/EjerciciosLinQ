@@ -1,0 +1,15 @@
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2_3/Ejercicio3/Ejercicio3/bin/Debug/net6.0/Ejercicio3
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2_3/Ejercicio3/Ejercicio3/bin/Debug/net6.0/Ejercicio3.deps.json
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2_3/Ejercicio3/Ejercicio3/bin/Debug/net6.0/Ejercicio3.runtimeconfig.json
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2_3/Ejercicio3/Ejercicio3/bin/Debug/net6.0/Ejercicio3.dll
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2_3/Ejercicio3/Ejercicio3/bin/Debug/net6.0/Ejercicio3.pdb
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2_3/Ejercicio3/Ejercicio3/obj/Debug/net6.0/Ejercicio3.csproj.AssemblyReference.cache
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2_3/Ejercicio3/Ejercicio3/obj/Debug/net6.0/Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2_3/Ejercicio3/Ejercicio3/obj/Debug/net6.0/Ejercicio3.AssemblyInfoInputs.cache
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2_3/Ejercicio3/Ejercicio3/obj/Debug/net6.0/Ejercicio3.AssemblyInfo.cs
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2_3/Ejercicio3/Ejercicio3/obj/Debug/net6.0/Ejercicio3.csproj.CoreCompileInputs.cache
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2_3/Ejercicio3/Ejercicio3/obj/Debug/net6.0/Ejercicio3.dll
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2_3/Ejercicio3/Ejercicio3/obj/Debug/net6.0/refint/Ejercicio3.dll
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2_3/Ejercicio3/Ejercicio3/obj/Debug/net6.0/Ejercicio3.pdb
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2_3/Ejercicio3/Ejercicio3/obj/Debug/net6.0/Ejercicio3.genruntimeconfig.cache
+/Users/sebastianpuppo/Desktop/Programacion/CEI/Semestre 3/Programacion III/Practicos/Practica2_3/Ejercicio3/Ejercicio3/obj/Debug/net6.0/ref/Ejercicio3.dll
